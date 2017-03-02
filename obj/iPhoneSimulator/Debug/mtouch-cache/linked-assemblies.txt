@@ -1,0 +1,5 @@
+/Users/john-paulranaudo/Downloads/XamarinTestLab/HttpClient/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.Core.dll
+/Users/john-paulranaudo/Downloads/XamarinTestLab/HttpClient/obj/iPhoneSimulator/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/john-paulranaudo/Downloads/XamarinTestLab/HttpClient/obj/iPhoneSimulator/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/john-paulranaudo/Downloads/XamarinTestLab/HttpClient/obj/iPhoneSimulator/Debug/mtouch-cache/Link/System.dll
+/Users/john-paulranaudo/Downloads/XamarinTestLab/HttpClient/obj/iPhoneSimulator/Debug/mtouch-cache/Link/HttpClient.exe
